@@ -1,7 +1,7 @@
 # React Native Social Media Application🔥 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/jeremiahlena13?style=social)](https://twitter.com/jeremiahlena13)
 
 A Social Media Application built with React Native.
-Design made by 
+Design made by Sriram Venugopal
 
 Star⭐ the repo if you like what you see😉.
 
