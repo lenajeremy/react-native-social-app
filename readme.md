@@ -17,17 +17,26 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 ScreenShots
 
-| Light                             | Dark                              |
+| Screenshot                        | Description                       |
 | --------------------------------- | --------------------------------- |
-| <img src="ss/l1.jpg" width="400"> | <img src="ss/d1.jpg" width="400"> |
-| <img src="ss/l2.jpg" width="400"> | <img src="ss/d2.jpg" width="400"> |
-| <img src="ss/l3.jpg" width="400"> | <img src="ss/d3.jpg" width="400"> |
-| <img src="ss/l4.jpg" width="400"> | <img src="ss/d4.jpg" width="400"> |
-| <img src="ss/l5.jpg" width="400"> | <img src="ss/d5.jpg" width="400"> |
-| <img src="ss/l6.jpg" width="400"> | <img src="ss/d6.jpg" width="400"> |
-| <img src="ss/l7.jpg" width="400"> | <img src="ss/d7.jpg" width="400"> |
-| <img src="ss/l8.jpg" width="400"> | <img src="ss/d8.jpg" width="400"> |
-| <img src="ss/l9.jpg" width="400"> | <img src="ss/d9.jpg" width="400"> |
+| <img src="assets/images/AlertScreen.png" width="400"> | #### Alert Screen |
+| <img src="assets/images/AlertScreen.png" width="400"> | #### Alert Screen 2 |
+| <img src="assets/images/HomeScreen.png" width="400"> | ### Home Screen |
+| <img src="assets/images/PostScreen1.png" width="400"> | ### Post Screen |
+| <img src="assets/images/PostScreen2.png" width="400"> | ### Post Screen 2 |
+| <img src="assets/images/PostScreen3.png" width="400"> | ### Post Screen 3 |
+| <img src="assets/images/SearchScreen1.png" width="400"> | ### Search Screen 1 |
+| <img src="assets/images/SearchScreen2.png" width="400"> | ### Search Screen 2 |
+| <img src="assets/images/ChatScreen.png" width="400"> | ### Chat Screen 1 |
+| <img src="assets/images/ChatScreen2.png" width="400"> | ### Chat Screen 2 |
+| <img src="assets/images/ChatScreen3.png" width="400"> | ### Chat Screen 3 |
+| <img src="assets/images/MessagesScreen2.png" width="400"> | ### Messages Screen |
+| <img src="assets/images/MessagesScreen.png" width="400"> | ### Messages Screen 2 |
+| <img src="assets/images/ChatScreen3.png" width="400"> | ### Chat Screen 3 |
+| <img src="assets/images/NewPostScreen.png" width="400"> | ### New Post Screen |
+| <img src="assets/images/NewPostScreenFilled.png" width="400"> | ### New Post Screen With Content |
+| <img src="assets/images/NewPostScreenOptions.png" width="400"> | ### New Post Screen with Options |
+
 
 ## 🤓 Author(s)
 
