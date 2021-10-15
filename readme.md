@@ -20,8 +20,8 @@ Star⭐ the repo if you like what you see😉.
 | Screenshot                        | Description                       |
 | --------------------------------- | --------------------------------- |
 | <img src="assets/screenshots/AlertScreen.png" width="400"> | ### Alert Screen |
-| <img src="assets/screenshots/AlertScreen.png" width="400"> | #### Alert Screen 2 |
-| <img src="assets/screenshots/HomeScreen.png" width="400"> | ### Home Screen |
+| <img src="assets/screenshots/AlertScreen2.png" width="400"> | #### Alert Screen 2 |
+| <img src="assets/screenshots/HomeScreen1.png" width="400"> | ### Home Screen |
 | <img src="assets/screenshots/PostScreen1.png" width="400"> | ### Post Screen |
 | <img src="assets/screenshots/PostScreen2.png" width="400"> | ### Post Screen 2 |
 | <img src="assets/screenshots/PostScreen3.png" width="400"> | ### Post Screen 3 |
