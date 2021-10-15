@@ -19,23 +19,23 @@ Star⭐ the repo if you like what you see😉.
 
 | Screenshot                        | Description                       |
 | --------------------------------- | --------------------------------- |
-| <img src="assets/images/AlertScreen.png" width="400"> | #### Alert Screen |
-| <img src="assets/images/AlertScreen.png" width="400"> | #### Alert Screen 2 |
-| <img src="assets/images/HomeScreen.png" width="400"> | ### Home Screen |
-| <img src="assets/images/PostScreen1.png" width="400"> | ### Post Screen |
-| <img src="assets/images/PostScreen2.png" width="400"> | ### Post Screen 2 |
-| <img src="assets/images/PostScreen3.png" width="400"> | ### Post Screen 3 |
-| <img src="assets/images/SearchScreen1.png" width="400"> | ### Search Screen 1 |
-| <img src="assets/images/SearchScreen2.png" width="400"> | ### Search Screen 2 |
-| <img src="assets/images/ChatScreen.png" width="400"> | ### Chat Screen 1 |
-| <img src="assets/images/ChatScreen2.png" width="400"> | ### Chat Screen 2 |
-| <img src="assets/images/ChatScreen3.png" width="400"> | ### Chat Screen 3 |
-| <img src="assets/images/MessagesScreen2.png" width="400"> | ### Messages Screen |
-| <img src="assets/images/MessagesScreen.png" width="400"> | ### Messages Screen 2 |
-| <img src="assets/images/ChatScreen3.png" width="400"> | ### Chat Screen 3 |
-| <img src="assets/images/NewPostScreen.png" width="400"> | ### New Post Screen |
-| <img src="assets/images/NewPostScreenFilled.png" width="400"> | ### New Post Screen With Content |
-| <img src="assets/images/NewPostScreenOptions.png" width="400"> | ### New Post Screen with Options |
+| <img src="assets/screenshots/AlertScreen.png" width="400"> | ### Alert Screen |
+| <img src="assets/screenshots/AlertScreen.png" width="400"> | #### Alert Screen 2 |
+| <img src="assets/screenshots/HomeScreen.png" width="400"> | ### Home Screen |
+| <img src="assets/screenshots/PostScreen1.png" width="400"> | ### Post Screen |
+| <img src="assets/screenshots/PostScreen2.png" width="400"> | ### Post Screen 2 |
+| <img src="assets/screenshots/PostScreen3.png" width="400"> | ### Post Screen 3 |
+| <img src="assets/screenshots/SearchScreen1.png" width="400"> | ### Search Screen 1 |
+| <img src="assets/screenshots/SearchScreen2.png" width="400"> | ### Search Screen 2 |
+| <img src="assets/screenshots/ChatScreen.png" width="400"> | ### Chat Screen 1 |
+| <img src="assets/screenshots/ChatScreen2.png" width="400"> | ### Chat Screen 2 |
+| <img src="assets/screenshots/ChatScreen3.png" width="400"> | ### Chat Screen 3 |
+| <img src="assets/screenshots/MessagesScreen2.png" width="400"> | ### Messages Screen |
+| <img src="assets/screenshots/MessagesScreen.png" width="400"> | ### Messages Screen 2 |
+| <img src="assets/screenshots/ChatScreen3.png" width="400"> | ### Chat Screen 3 |
+| <img src="assets/screenshots/NewPostScreen.png" width="400"> | ### New Post Screen |
+| <img src="assets/screenshots/NewPostScreenFilled.png" width="400"> | ### New Post Screen With Content |
+| <img src="assets/screenshots/NewPostScreenOptions.png" width="400"> | ### New Post Screen with Options |
 
 
 ## 🤓 Author(s)
